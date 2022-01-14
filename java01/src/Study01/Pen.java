@@ -18,7 +18,7 @@ class PenSetting {
     public int getNumber() {
         return number;
     }
-    
+
 }
 
 public class Pen {
