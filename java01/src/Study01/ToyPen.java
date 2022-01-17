@@ -11,7 +11,7 @@ class ToyPenSetting {
 
 class TestPen1 extends ToyPenSetting{
     void changeColor(String color) {
-        super.changeColor(color);
+        //super.changeColor(color);
         this.color = color;
         if (color == "Blue") {
             this.color = "Black";
